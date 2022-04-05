@@ -2645,11 +2645,11 @@ input, select, textarea {
 		margin-bottom: 3em;
 	}
 
-		header.major h2 {
+		header.major h1 {
 			font-size: 2em;
 		}
 
-			header.major h2:after {
+			header.major h1:after {
 				display: block;
 				content: '';
 				width: 3.25em;
@@ -2658,7 +2658,7 @@ input, select, textarea {
 				border-radius: 2px;
 			}
 
-				section.special header.major h2:after, article.special header.major h2:after {
+				section.special header.major h1:after, article.special header.major h1:after {
 					margin-left: auto;
 					margin-right: auto;
 				}
@@ -2687,7 +2687,7 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
-			header.major h2 {
+			header.major h1 {
 				font-size: 1.5em;
 			}
 
@@ -3549,7 +3549,7 @@ input, select, textarea {
 			color: #636363;
 		}
 
-		#main header.major h2:after {
+		#main header.major h1:after {
 			background-color: #dddddd;
 			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
 			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
